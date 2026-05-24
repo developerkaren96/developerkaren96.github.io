@@ -1,0 +1,1 @@
+Base3D.DIRTY_EPSILON = 1e-4;

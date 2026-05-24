@@ -1,0 +1,10 @@
+.DS_Store
+.idea/
+.claude/
+nuxt-app/
+analysis/
+PLAN.md
+стек*.png
+Снимок экрана*.png
+node_modules/
+*.log
